@@ -1,0 +1,15 @@
+export const main_color = '#e96e2c'
+export const main_blue_color = "#3171e0"
+export const main_dark_blue_color = "#0957d1"
+export const white_color = '#fff'
+export const dark_gray = '#7a7a7a'
+export const gray_color = "gray"
+export const white_gray_color = "#d2d2d2"
+export const disable_btn_color = "#e0e0e0"
+export const gray_background_color = "#f8f8f8"
+export const card_color = "#aaaaaa"
+export const red_color = "#ff3e17"
+export const dark_red_color = "#771400c9"
+export const white_green_color = "#178a024f"
+export const white_red_color = "#f907074d"
+export const white_purple_color = "#e8e0f5"

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "68653105537",
+    "firebase_url": "https://naxetra-dbbb9.firebaseio.com",
+    "project_id": "naxetra-dbbb9",
+    "storage_bucket": "naxetra-dbbb9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68653105537:android:3419bd91f8db211aea6880",
+        "android_client_info": {
+          "package_name": "com.naxetra"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "68653105537-b5hde8cnrvgslbmn1336g4t890fap7ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiChJSAygSHPwwPeHIeZhEi_KIkvotqyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "68653105537-b5hde8cnrvgslbmn1336g4t890fap7ep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
